@@ -36,7 +36,7 @@ Clone the Repository to Google Colab and execute the program.
 
 ## Example Output
 
-![Sample Image](https://github.com/sriroopar/Hashtag-generator/blob/main/static/2591603141_33d6397e0a.jpg)
+![Sample Image](https://github.com/sriroopar/Hashtag-generator/blob/main/static/photo-1544568100-847a948585b9.jfif)
 ![Output](https://github.com/sriroopar/Hashtag-generator/blob/main/static/SharedScreenshot.jpg)
 
 
